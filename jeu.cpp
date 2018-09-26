@@ -1,5 +1,7 @@
 #include "jeu.h"
 #include <iostream>
+using namespace std;
 
-bool get_verite::gameover(bool a){
-return(a); 
+void H::hello(){
+cout<<"hello"<<endl;
+}

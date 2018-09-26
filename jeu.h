@@ -1,6 +1,6 @@
-class jeu{
+class H{
 
 public :
 
-gameover(bool a);
-}
+void hello();
+};
